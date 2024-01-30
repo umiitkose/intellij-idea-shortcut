@@ -1,5 +1,7 @@
 # idea-shortcut
 
+Konuyla ilgili youtube videoma aşağıdaki adresten ulaşabilirsiniz.
+https://www.youtube.com/embed/XOniJYHaiEY?si=kFYoK_1RZYjOpgge
 
 **En Çok Bilinenler**
 <html>
